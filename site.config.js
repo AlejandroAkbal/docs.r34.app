@@ -3,7 +3,7 @@ module.exports = {
   rootNotionPageId: '6911f3301a2e47268b09d95f3cd4f8ac',
 
   // if you want to restrict pages to a single notion workspace (optional)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: 'alejandroakbal',
 
   // basic site info (required)
   name: 'Documentation - Rule 34 App',
