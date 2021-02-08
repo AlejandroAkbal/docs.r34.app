@@ -22,8 +22,10 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageIcon:
+    'https://ssfy.io/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fr34.app%252F_nuxt%252Fimg%252Ficon.9741cc1.webp%3Ftable%3Dblock%26id%3D6911f330-1a2e-4726-8b09-d95f3cd4f8ac%26cache%3Dv2',
+  defaultPageCover:
+    'https://ssfy.io/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fwww.notion.so%252Fimages%252Fpage-cover%252Fgradients_8.png%3Ftable%3Dblock%26id%3D6911f330-1a2e-4726-8b09-d95f3cd4f8ac%26cache%3Dv2',
   defaultPageCoverPosition: 0.5,
 
   // image CDN host to proxy all image requests through (optional)
