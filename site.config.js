@@ -1,24 +1,24 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '6911f3301a2e47268b09d95f3cd4f8ac',
 
   // if you want to restrict pages to a single notion workspace (optional)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: true,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Documentation - Rule 34 App',
+  domain: 'docs.r34.app',
+  author: 'Alejandro Akbal',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Documentation for the Rule 34 App',
+  socialImageTitle: 'Rule 34 App',
+  socialImageSubtitle: 'Browse the most popular boorus',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'Rule34App',
+  github: 'Rule34',
+  linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
