@@ -17,7 +17,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: 'Rule34App',
-  github: 'Rule34',
+  github: 'Rule-34',
   linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
