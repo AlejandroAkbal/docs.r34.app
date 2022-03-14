@@ -13,7 +13,7 @@ module.exports = {
   // open graph metadata (optional)
   description: 'Documentation for the Rule 34 App',
   socialImageTitle: 'Rule 34 App',
-  socialImageSubtitle: 'Browse the most popular boorus',
+  socialImageSubtitle: 'Browse the most popular Rule 34 Hentai Porn',
 
   // social usernames (optional)
   twitter: 'Rule34App',
@@ -25,12 +25,12 @@ module.exports = {
   defaultPageIcon:
     'https://cdn.statically.io/img/raw.githubusercontent.com/h=512,w=512,q=90/Rule-34/Brand/main/src/assets/Rule_34_Logo_Fixed_Transparency.png',
   defaultPageCover:
-    'https://ssfy.io/https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fwww.notion.so%252Fimages%252Fpage-cover%252Fgradients_8.png%3Ftable%3Dblock%26id%3D6911f330-1a2e-4726-8b09-d95f3cd4f8ac%26cache%3Dv2',
+    'https://www.notion.so/image/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fgradients_8.png?table=block&id=6911f330-1a2e-4726-8b09-d95f3cd4f8ac&cache=v2',
   defaultPageCoverPosition: 0.5,
 
   // image CDN host to proxy all image requests through (optional)
   // NOTE: this requires you to set up an external image proxy
-  imageCDNHost: 'https://ssfy.io',
+  imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
   utterancesGitHubRepo: null,
